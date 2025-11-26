@@ -1,2 +1,2 @@
-Hello from main
-Main branch update
+This is the Main branch update 
+This is the feature1 branch update 
